@@ -1,0 +1,19 @@
+
+[
+  {
+        "name": "Blessed Green",
+        "type": "Pantheon",
+        "uniques": ["[+1 Culture] from every [Pasture]", "[+1 Culture] from every [Farm]"]
+    },
+  {
+        "name": "Strength of the Earth",
+        "type": "Pantheon",
+        "uniques": ["[+1 Faith] from every [Mine]"]
+    },
+  ///////////////////////////////////////// Follower beliefs /////////////////////////////////////////
+ {
+        "name": "Hymns of Praise",
+        "type": "Follower",
+        "uniques": ["[+1 Happiness] and [+1 Culture] from every [Shrine] <in cities where this religion has at least [3] followers>"]
+    }
+]
