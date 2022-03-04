@@ -66,23 +66,28 @@
         "name": "Holy Fortress",
         "type": "Follower",
         "uniques": ["Provides [+1 Great General] point and [+1 Faith]"]
-    }, {
+    }, 
+    {
         "name": "Dar-e Mehr",
         "type": "Follower",
         "uniques": ["[+3 Faith] and [+1 Great Artist]"]
-    }, {
+    }, 
+    {
         "name": "Gurdwara",
         "type": "Follower",
         "uniques": ["[+3 Faith] and [+2 Food]"]
-    }, {
+    },
+    {
         "name": "Meeting House",
         "type": "Follower",
         "uniques": ["[+3 Faith] and [+2 Production]"]
-    }, , {
+    },
+    {
         "name": "Ano Wat",
         "type": "Follower",
         "uniques": ["[+3 Faith] and [+2 Science]"]
-    }, {
+    }, 
+    {
         "name": "Jesuit Education",
         "type": "Enhancer",
         "uniques": ["May buy [University] and [Opera House] buildings [in cities following this religion]"]
