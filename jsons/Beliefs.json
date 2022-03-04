@@ -30,6 +30,7 @@
         "type": "Pantheon",
         "uniques": ["[+1 Food]  for each [Bananas], [Citrus], [Wheat]. [+2 Faith] for each [Gems], and [Pearls] resources"]
     },
+  ///////////////////////////////////////// Founder beliefs /////////////////////////////////////////
      {
         "name": "Secured Life",
         "type": "Founder",
@@ -40,5 +41,53 @@
         "name": "Hymns of Praise",
         "type": "Follower",
         "uniques": ["[+1 Happiness] and [+1 Culture] from every [Shrine] <in cities where this religion has at least [3] followers>"]
-    }
+    },
+  {
+        "name": "Mandir",
+        "type": "Follower",
+        "uniques": ["Provides [+1 Faith] and [+1 Culture]"]
+    },
+   {
+        "name": "Synagogue",
+        "type": "Follower",
+        "uniques": ["[+4 Faith] and [+1 Food]"]
+    },
+   {
+        "name": "Holy Fortress",
+        "type": "Follower",
+        "uniques": ["Provides [+1 General] points"]
+    }, {
+        "name": "Dar-e Mehr",
+        "type": "Follower",
+        "uniques": ["May buy [Holy Fortress] buildings for [200] [Faith] [in cities following this religion]"]
+    }, {
+        "name": "Gurdwara",
+        "type": "Follower",
+        "uniques": ["May buy [Holy Fortress] buildings for [200] [Faith] [in cities following this religion]"]
+    }, {
+        "name": "Meeting House",
+        "type": "Follower",
+        "uniques": ["May buy [Holy Fortress] buildings for [200] [Faith] [in cities following this religion]"]
+    }, {
+        "name": "Stupa",
+        "type": "Follower",
+        "uniques": ["May buy [Holy Fortress] buildings for [200] [Faith] [in cities following this religion]"]
+    }, {
+        "name": "Wat",
+        "type": "Follower",
+        "uniques": ["May buy [Holy Fortress] buildings for [200] [Faith] [in cities following this religion]"]
+    }, {
+        "name": "Holy Fortresses",
+        "type": "Follower",
+        "uniques": ["May buy [Holy Fortress] buildings for [200] [Faith] [in cities following this religion]"]
+    }, {
+        "name": "Holy Fortresses",
+        "type": "Follower",
+        "uniques": ["May buy [Holy Fortress] buildings for [200] [Faith] [in cities following this religion]"]
+    }, {
+        "name": "Holy Fortresses",
+        "type": "Follower",
+        "uniques": ["May buy [Holy Fortress] buildings for [200] [Faith] [in cities following this religion]"]
+    }, 
+  
 ]
