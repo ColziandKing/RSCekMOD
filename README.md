@@ -1,2 +1,2 @@
-# Religions_Plus
-Adds more religion
+# Beliefs_Plus
+Adds more beliefs
