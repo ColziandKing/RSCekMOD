@@ -22,10 +22,9 @@
 		"uniques": ["[+5 Science, +5 Food, +5 Gold, +5 Production, +5 Culture, +5 Faith, +5 Happiness] from [All] tiles [in all cities]",
 			    "[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory",
 			    "[+25]% Production towards any buildings that already exist in the Capital",
-			    "All newly-trained [relevant] units [in this city] receive the [Drill I] promotion",
+			    "All newly-trained [relevant] units receive the [Blitz] promotion",
 			   "[+50]% [Food] from City-States","[+50]% [Culture] from City-States","[+50]% [Faith] from City-States","Military Units gifted from City-States start with [+50] XP",
-			    "Receive a free [Giant Death Robot] when you discover [Mining]","Receive a free [Worker] when you discover [Animal Husbandry]",
-			    "Starts with [Pottery]","Starts with [Animal Husbandry]","Starts with [Archery]","Starts with [Mining]"],
+			    "Receive a free [Giant Death Robot] when you discover [Mining]","Receive a free [Worker] when you discover [Animal Husbandry]"]
 	},
 	{
 		"name": "Salumi",
