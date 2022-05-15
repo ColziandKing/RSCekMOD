@@ -19,11 +19,12 @@
 		"outerColor": [255,255,0],
 		"innerColor": [255,128,0], 
 		"uniqueName": "Cool Kingdom",
-		"uniques": ["[+1 Science, +1 Food, +1 Gold, +1 Production, +1 Culture, +1 Faith, +1 Happiness] from [All] tiles [in all cities]",
+		"uniques": ["[+1 Science] from [All] tiles [in all cities]",
 			    "[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory",
 			    "[+25]% Production towards any buildings that already exist in the Capital",
 			    "[+50]% [Food] from City-States","[+50]% [Culture] from City-States","[+50]% [Faith] from City-States","Military Units gifted from City-States start with [+50] XP",
-			    "Starts with [Writing]","Starts with [Calendar]","Starts with [Nuclear Fusion]","Starts with [Atomic Theory]"]
+			    "Starts with [Writing]","Starts with [Calendar]",
+			    "Starts with [Pottery]","Starts with [Animal Husbandry]","Starts with [Mining]","Starts with [The Wheel]","Starts with [Future era]"]
 	},
 	{
 		"name": "Salumi",
@@ -47,7 +48,8 @@
 		"innerColor": [255,204,255],
 
 		"uniqueName": "Salumi Feminine Love",
-		"uniques": ["[+3 Culture] from every [Plantation]","[+1 Gold] from every [Plantation]","[+1 Food] from every [Plantation]","[+30]% Strength <vs [Barbarian] units>", "Receive a free Social Policy when you advance to the next era",
+		"uniques": ["+1 Culture, +1 Happiness] from [All] tiles [in all cities]",
+			    "[+3 Culture] from every [Plantation]","[+1 Gold] from every [Plantation]","[+1 Food] from every [Plantation]","[+30]% Strength <vs [Barbarian] units>", "Receive a free Social Policy when you advance to the next era",
 			   "[+1 Faith] [in all cities] <with [1] to [2] neighboring [unimproved] [Forest] tiles>",
 			"[+2 Faith] [in all cities] <with [3] to [6] neighboring [unimproved] [Forest] tiles>",
 			   "[+3 Gold, +1 Culture] from every [Land Trade Route (Food)]","[+1 Gold] from every [Land Trade Route (Production)]",
@@ -81,7 +83,7 @@
 
 		"uniqueName": "Salumi Feminine Love",
 		"uniques": ["Starts with [Mining]","Starts with [Bronze Working]",
-			   ],
+			    "[+1 Production] from [All] tiles [in all cities]"],
 
 		"cities": ["Leonorre","Leo Volt","Seon-Voe","Leono","Leona","Le Nova","Sardaze"]
 	},
@@ -108,7 +110,7 @@
 
 		"uniqueName": "Salumi Feminine Love",
 		"uniques": ["Starts with [Pottery]","Starts with [Sailing]",
-			    ],
+			    "[+1 Food, +1 Gold] from [All] tiles [in all cities]"],
 
 		"cities": ["Saludonia","Saludon","Libro Saldos","Saludos","Villavicencio", "Medellin","Cali", "Santa Marianna", "Buenaventura", "San Andres", "Peacesee", 
 			   "Sofia", "Leticia","Sal Kristell","Sal Kristina","Paula","Libra Saldine","Baconilla","Hamburger","Duke Baloney"]
@@ -136,7 +138,7 @@
 
 		"uniqueName": "Salumi Feminine Love",
 		"uniques": ["Starts with [Animal Husbandry]","Starts with [The Wheel]",
-			    ],
+			    "[+1 Faith] from [All] tiles [in all cities]"],
 
 		"cities": ["Saludonia","Saludon","Libro Saldos","Saludos","Villavicencio", "Medellin","Cali", "Santa Marianna", "Buenaventura", "San Andres", "Peacesee", 
 			   "Sofia", "Leticia","Sal Kristell","Sal Kristina","Paula","Libra Saldine","Baconilla","Hamburger","Duke Baloney"]
