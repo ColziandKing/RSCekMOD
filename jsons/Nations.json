@@ -5,8 +5,11 @@
 		"adjective": ["Colziand"],
           	"startBias": ["Coast"],
 		"preferredVictoryType": "Diplomatic",
+	  	"favoredReligion": "Christianity",
+	  
 		"startIntroPart1": "Oh Raymond! You who formed a nation of people for God to saved, glorious you are. Thanks be to the mighty Father.",
                 "startIntroPart2": "Will you once more rule the world for the Lord's desire.",
+	  	
 		"declaringWar": "Hence, Forth!",
 		"attacked": "I'm dissapointed! Why declare destruction, is there no fun in peace and prosperity?",
 		"defeated": "Colziand is its people, me, and Him.",
