@@ -45,8 +45,8 @@
 		"hateHello": "Assh, what do you want?",
 		"tradeRequest": "I  thought you might be intested in this...",
 
-	        "outerColor": [255,51,255],
-		"innerColor": [255,204,255],
+	        "outerColor": [127,0,255],
+		"innerColor": [255,0,255],
 
 		"uniqueName": "Salumi Feminine Love",
 		"uniques": ["+1 Culture, +1 Happiness] from [All] tiles [in all cities]","Starts with [Calendar]",
@@ -136,7 +136,7 @@
 		"tradeRequest": "I  thought you might be intested in this...",
 
 	        "outerColor": [255,51,255],
-		"innerColor": [255,204,255],
+		"innerColor": [255,0,0],
 
 		"uniqueName": "Salumi Feminine Love",
 		"uniques": ["Starts with [Animal Husbandry]","Starts with [The Wheel]",
