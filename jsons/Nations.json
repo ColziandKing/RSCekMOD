@@ -20,7 +20,7 @@
 		"cities": ["Colziane", "Cher-Hon Rishvas", "Rekle-Esieg", "Erion Faith", "Colvian", "Caballeron", "Lead-Diah", "Ravdon Mond", "Sabert Zhang", 
 			   "Colziantozant", "Adophant", "Coldelton", "Mega Complexcity", "Sheeno"],
 		"outerColor": [255,255,0],
-		"innerColor": [255,128,0], 
+		"innerColor": [255,255,0], 
 		"uniqueName": "Cool Kingdom",
 		"uniques": ["[+1 Science] from [All] tiles [in all cities]", "Starts with [Archery]","Starts with [Trapping]",
 			    "[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory",
@@ -105,8 +105,8 @@
 		"hateHello": "Assh, what do you want?",
 		"tradeRequest": "I  thought you might be intested in this...",
 
-	        "outerColor": [255,51,255],
-		"innerColor": [255,204,255],
+	        "outerColor": [],
+		"innerColor": [0,0,255],
 
 		"uniqueName": "Salumi Feminine Love",
 		"uniques": ["Starts with [Pottery]","Starts with [Sailing]", "[+1 Food, +1 Gold] from [All] tiles [in all cities]",
