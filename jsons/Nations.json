@@ -24,7 +24,8 @@
 		"uniqueName": "Cool Kingdom",
 		"uniques": ["[+1 Science] from [All] tiles [in all cities]", "Starts with [Archery]","Starts with [Trapping]",
 			    "[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory",
-			    "[+20]% Production towards any buildings that already exist in the Capital", "[-30]% Culture cost of adopting new Policies",
+			    "100 Gold for discovering a Natural Wonder (bonus enhanced to 500 Gold if first to discover it)",
+			    "Double Happiness from Natural Wonders", "Tile yields from Natural Wonders doubled","[-30]% Culture cost of adopting new Policies",
 			    "[+50]% [Food] from City-States","[+50]% [Culture] from City-States","[+50]% [Faith] from City-States","Military Units gifted from City-States start with [+50] XP"]
 	},
 	{
@@ -117,8 +118,7 @@
 			"[+1 Gold] from every [Land Trade Route (Gold)]","[+1 Gold] from every [Sea Trade Route (Food)]",
 			"[+1 Gold] from every [Sea Trade Route (Production)]","[+1 Gold] from every [Sea Trade Route (Gold)]"],
 
-		"cities": ["Saludonia","Saludon","Libro Saldos","Saludos","Villavicencio", "Medellin","Cali", "Santa Marianna", "Buenaventura", "San Andres", "Peacesee", 
-			   "Sofia", "Leticia","Sal Kristell","Sal Kristina","Paula","Libra Saldine","Baconilla","Hamburger","Duke Baloney"]
+		"cities": ["Buenlyssia","Gabina","Nicono","Pathrica","Diwayville","Jambini","Cassia","Lanita Yella"]
 	},
 	{
 		"name": "Fullysia",
@@ -147,7 +147,6 @@
 			   "+30% Strength when fighting City-State units and cities", "[+1] Movement <for [Mounted] units>",
 			   "Gain [90] Influence with a [Great Person] gift to a City-State", "When declaring friendship, both parties gain a [10]% boost to great person generation"],
 
-		"cities": ["Saludonia","Saludon","Libro Saldos","Saludos","Villavicencio", "Medellin","Cali", "Santa Marianna", "Buenaventura", "San Andres", "Peacesee", 
-			   "Sofia", "Leticia","Sal Kristell","Sal Kristina","Paula","Libra Saldine","Baconilla","Hamburger","Duke Baloney"]
+		"cities": ["Reigna","Thraymond","Proviencia","Liencia","Sheenran"]
 	}
 ]
