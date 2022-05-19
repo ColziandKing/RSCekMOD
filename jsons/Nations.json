@@ -111,8 +111,8 @@
 		"afterPeace": "Hey, no hard feelings. Let's not bother each other again.",
 		"tradeRequest": "I have shipments of cargo.",
 
-	        "outerColor": [0,0,0],
-		"innerColor": [0,0,255],
+	        "outerColor": [114, 162, 233],
+		"innerColor": [61, 0, 109],
 
 		"uniqueName": "Coastal Express",
 		"uniques": ["Starts with [Pottery]","Starts with [Sailing]", "[+1 Food, +1 Gold] from [All] tiles [in all cities]","+[100]% [Gold] [in capital]",
@@ -145,8 +145,8 @@
 		"afterPeace": "From Colziand we voyage to new land, better leave us.",
 		"tradeRequest": "We have an offer.",
 
-	        "outerColor": [255,51,255],
-		"innerColor": [255,0,0],
+	        "outerColor": [12,75,25],
+		"innerColor": [157,172,255],
 
 		"uniqueName": "Fullysianth Song",
 		"uniques": ["Starts with [Animal Husbandry]","Starts with [The Wheel]","[+1 Faith] from [All] tiles [in all cities]",
