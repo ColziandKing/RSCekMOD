@@ -145,8 +145,8 @@
 		"afterPeace": "From Colziand we voyage to new land, better leave us.",
 		"tradeRequest": "We have an offer.",
 
-	        "outerColor": [12,75,25],
-		"innerColor": [157,172,255],
+	        "outerColor": [114, 0, 0],
+		"innerColor": [255,255,255],
 
 		"uniqueName": "Fullysianth Song",
 		"uniques": ["Starts with [Animal Husbandry]","Starts with [The Wheel]","[+1 Faith] from [All] tiles [in all cities]",
