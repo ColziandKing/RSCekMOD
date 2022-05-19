@@ -114,7 +114,7 @@
 	        "outerColor": [0,0,0],
 		"innerColor": [0,0,255],
 
-		"uniqueName": "Salumi Feminine Love",
+		"uniqueName": "Coastal Express",
 		"uniques": ["Starts with [Pottery]","Starts with [Sailing]", "[+1 Food, +1 Gold] from [All] tiles [in all cities]","+[100]% [Gold] [in capital]",
 			    "Gain a free [Harbor] [in all coastal cities]","Land units may cross [Mountain] tiles after the first [Great General] is earned",
 			  "Units ignore terrain costs when moving into any tile with Mountain",
@@ -148,7 +148,7 @@
 	        "outerColor": [255,51,255],
 		"innerColor": [255,0,0],
 
-		"uniqueName": "Salumi Feminine Love",
+		"uniqueName": "Fullysianth Song",
 		"uniques": ["Starts with [Animal Husbandry]","Starts with [The Wheel]","[+1 Faith] from [All] tiles [in all cities]",
 			   "+30% Strength when fighting City-State units and cities", "[+1] Movement <for [Mounted] units>",
 			   "Gain [90] Influence with a [Great Person] gift to a City-State", "When declaring friendship, both parties gain a [10]% boost to great person generation"],
