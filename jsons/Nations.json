@@ -19,7 +19,7 @@
 		"tradeRequest": "It appears that you have a golden interest of our goods",
 		"cities": ["Colziane", "Cher-Hon Rishvas", "Rekle-Esieg", "Erion Faith", "Colvian", "Caballeron", "Lead-Diah", "Ravdon Mond", "Sabert Zhang", 
 			   "Colziantozant", "Adophant", "Coldelton", "Mega Complexcity", "Sheeno"],
-		"outerColor": [255,255,0],
+		"outerColor": [255,128,0],
 		"innerColor": [255,255,0], 
 		"uniqueName": "Domain Rule",
 		"uniques": ["[+1 Science] from [All] tiles [in all cities]", "Starts with [Archery]","Starts with [Trapping]",
