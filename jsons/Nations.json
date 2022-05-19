@@ -3,7 +3,7 @@
 		"name": "Colziand",
 		"leaderName": "Raymond Sheen Caballero",
 		"adjective": ["Colziand"],
-          	"startBias": ["Coast"],
+          	"startBias": ["Coast","Grassland"],
 		"preferredVictoryType": "Diplomatic",
 	  	"favoredReligion": "Christianity",
 	  
@@ -62,7 +62,7 @@
 		"name": "Salveo",
 		"leaderName": "Warren Gradllium Fe-Norivest",
 		"adjective": ["Salveolites"],
-		"startBias": ["Plain","Jungle"],
+		"startBias": ["Hill"],
   	        "preferredVictoryType": "Domination",
 		"favoredReligion": "Christianity",
 
@@ -94,7 +94,7 @@
 		"name": "Suzainswellia",
 		"leaderName": "Uzaine Anne Caballero",
 		"adjective": ["Swells"],
-		"startBias": ["Plain","Jungle"],
+		"startBias": ["Coast"],
   	        "preferredVictoryType": "Diplomatic",
 		"favoredReligion": "Christianity",
 
@@ -128,7 +128,7 @@
 		"name": "Fullysia",
 		"leaderName": "Ullysia Ryden Gozanlithozz",
 		"adjective": ["Fullysian"],
-		"startBias": ["Plain","Jungle"],
+		"startBias": ["Grassland","Forest"],
   	        "preferredVictoryType": "Diplomatic",
 		"favoredReligion": "Christianity",
 
