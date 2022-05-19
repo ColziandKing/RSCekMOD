@@ -61,7 +61,7 @@
 	{
 		"name": "Salveo",
 		"leaderName": "Warren Gradllium Fe-Norivest",
-		"adjective": ["Salumian"],
+		"adjective": ["Salveolites"],
 		"startBias": ["Plain","Jungle"],
   	        "preferredVictoryType": "Domination",
 		"favoredReligion": "Christianity",
@@ -79,8 +79,8 @@
 		"afterPeace": "Better not attack us again, God is stronger than any metal",
 		"tradeRequest": "I thought I might gift you something O' humble shrub, you want an iron hand. Get it? No.",
 
-	        "outerColor": [255,51,255],
-		"innerColor": [255,204,255],
+	        "outerColor": [0,0,0],
+		"innerColor": [0,0,255],
 
 		"uniqueName": "Iron Forged Will",
 		"uniques": ["Starts with [Mining]","Starts with [Bronze Working]","[+1 Production] from [All] tiles [in all cities]",
@@ -93,7 +93,7 @@
 	{
 		"name": "Suzainswellia",
 		"leaderName": "Uzaine Anne Caballero",
-		"adjective": ["Salumian"],
+		"adjective": ["Swells"],
 		"startBias": ["Plain","Jungle"],
   	        "preferredVictoryType": "Cultural",
 		"favoredReligion": "Christianity",
@@ -126,19 +126,19 @@
 	},
 	{
 		"name": "Fullysia",
-		"leaderName": "Sarita Sephira Saldrigal",
+		"leaderName": "Ullysia Ryden Gozanlithozz",
 		"adjective": ["Salumian"],
 		"startBias": ["Plain","Jungle"],
   	        "preferredVictoryType": "Cultural",
 		"favoredReligion": "Christianity",
 
-		"startIntroPart1": "Be welcomed, princesses. You lead the beatiful and joyful nation of Salumi, a country filled more women than men with great cultural and bio diversity. ...One, two, three! Three had been the attempts to break free - getting terribly punished - but with determination, Salumi emerged to a great nation. Since the start we had a ton of great political division, which brought many problems and conflicts, but despite all the troubles, Salumi ought to help other no matter what. The conflicts didn't cease until early 21st century, where the sun finally rises over Salumi to achieve greatness.",
-		"startIntroPart2": "Princesses, your people want you to lead them to greatness. They want you to convert them in to the best nation. Will you answer the call? Can you fight and triump over the adversities? Can you build a civilization that can stand the pass of time?",
+		"startIntroPart1": "Feared woman with the strength like men. You Ullysia from Colziand is fierce in battles but at what cost? You do it so that it will end, war destroys each other but peace helps each other.",
+		"startIntroPart2": "See? War will once more wage, do what must be done.",
 
-		"declaringWar": "Prepare to lose your empire of opression!",
-		"attacked": "You will see how fruitless this will be for you. Wait and see.",
-		"defeated":  "I hope you treat my people good, don´t take away their happiness.",
-		"introduction":  "Greetings! This is Salumi, our wordeful land. Want a kiss?",
+		"declaringWar": "Prepare! My people are skilled for this terrains.",
+		"attacked": "You see. Your land will be covered in nature because we will ruin it.",
+		"defeated":  "Raze, puppet or annex? We will be liberated.",
+		"introduction":  "Salutations, I wanna know your kingdom too?",
 		"neutralHello": "Hello There.",
 		"hateHello": "Assh, what do you want?",
 		"hateLetsHearIt": "You are like us hard as iron.",
