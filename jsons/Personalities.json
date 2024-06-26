@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Kolzi Jose Emilio O. Duterte",
+    "production": 10,
+    "food": 10,
+    "gold": 10,
+    "science": 10,
+    "culture": 10,
+    "happiness": 10,
+    "faith": 10,
+    "military": 10,
+    "aggressive": 10,
+    "declareWar": 10,
+    "commerce": 10,
+    "diplomacy": 10,
+    "loyal": 10,
+    "expansion": 10,
+    "priorities": {
+      "Tradition": 10,
+      "Liberty": 10,
+      "Honor": 10,
+      "Aesthetics": 10,
+      "Exploration": 10,
+      "Commerce": 10,
+      "Patronage": 10,
+      "Piety": 10,
+      "Rationalism": 10,
+      "Freedom": 10,
+      "Autocracy": 10,
+      "Order": 10
+    },
+    "civilopediaText": [
+      {
+        "text": "Thats me, my family, Jose Rizal, Emilio Aguinaldo, & Duterte Family."
+      }
+    ]
+  },
+]
