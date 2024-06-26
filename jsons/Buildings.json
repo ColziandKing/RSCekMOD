@@ -9,7 +9,7 @@
         "uniques": ["Destroyed when the city is captured"]
     },
     {
-        "name": "Barracks",
+        "name": "Barrackser",
         "hurryCostModifier": 25,
         "maintenance": 1,
         "uniques": [
