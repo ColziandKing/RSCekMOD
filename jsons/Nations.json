@@ -3789,6 +3789,7 @@
 		"name": "Manila",
 		"adjective": ["Manilan"],
 		"startBias": ["Coast"],
+	    	"leaderName": "Kolzi Jose Emilio O. Duterte",
 		"preferredVictoryType": "Diplomatic",
 		"favoredReligion": "Christianity",
 		"declaringWar": "You leave us no choice. War it must be.",
