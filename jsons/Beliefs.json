@@ -337,6 +337,7 @@
         "type": "Founder",
         "uniques": [
             "[+100]% Natural religion spread [in City-State cities]",
+            "[+20]% Natural religion spread [in all cities]",
             "Resting point for Influence with City-States following this religion [+45]"
         ]
     },
@@ -514,12 +515,14 @@
     {
         "name": "Dharma",
         "type": "Enhancer",
-        "uniques": ["[+10 Science] from every [Grand Temple]"]
+        "uniques": ["[+10 Science] from every [Grand Temple]",
+                    "May buy [Gurdwara] buildings for [270] [Faith] [in cities following this religion]"]
     },
     {
         "name": "Disciples",
         "type": "Enhancer",
-        "uniques": ["[+2 Gold, +2 Culture] from every [Great Improvement]"]
+        "uniques": ["[+2 Gold, +2 Culture] from every [Great Improvement]",
+                    "May buy [Cathedral] buildings for [150] [Faith] [in cities following this religion]"]
     },
     {
         "name": "Hajj",
@@ -555,7 +558,8 @@
     {
         "name": "Jizya",
         "type": "Enhancer",
-        "uniques": ["[+6 Production, +6 Gold] from every [Grand Temple]"]
+        "uniques": ["[+6 Production, +6 Gold] from every [Grand Temple]",
+                    "May buy [Mosque] buildings for [150] [Faith] [in cities following this religion]"]
     },
     {
         "name": "Just War",
@@ -566,7 +570,8 @@
     {
         "name": "Karma",
         "type": "Enhancer",
-        "uniques": ["[+8 Culture] [in holy cities]"]
+        "uniques": ["[+8 Culture] [in holy cities]",
+                    "May buy [Mandir] buildings for [270] [Faith] [in cities following this religion]"]
     },
     {
         "name": "Kotel",
@@ -607,7 +612,8 @@
     {
         "name": "Swords into Ploughshares",
         "type": "Enhancer",
-        "uniques": ["[+20]% growth [in cities following this religion]"]
+        "uniques": ["May buy [Pagoda] buildings for [200] [Faith] [in cities following this religion]",
+                    "[+20]% growth [in cities following this religion]"]
         //Should be for all cities following the religion, but I can't do so as an enhancer
     },
     {
@@ -629,5 +635,22 @@
         "name": "Unity of the Prophets",
         "type": "Enhancer",
         "uniques": ["[+4 Faith, +2 Production] from every [Holy site]"]
+    },
+  {
+        "name": "Icon de Hedo-Nihilism",
+        "type": "Enhancer",
+        "uniques": ["[-15]% [Happiness] from every follower, up to [-20]% <when not at war>","[+1 Gold] [in all cities]",
+                    "[+2 Faith] [in all cities] <during a Golden Age>","[-2 Happiness, -3 Faith] from every [Dyes]","[-8 Food, -7 Culture] from every [Crab]"]
+    },
+	{
+        "name": "Chantheism",
+        "type": "Enhancer",
+        "uniques": ["[+2 Culture, +1 Happiness] from all [Faith] buildings <in cities with at least [4] [Followers of this Religion]>",
+                    "[+1 Faith, +1 Gold] from all [Culture] buildings <in cities with at least [9] [Followers of this Religion]>"]
+    },
+{
+        "name": "Theosis",
+        "type": "Enhancer",
+        "uniques": ["[-25]% Unhappiness from [Followers of this Religion] [in all cities]","[+33]% Strength <for [All] units> <when fighting in [All] tiles>"]
     }
 ]
