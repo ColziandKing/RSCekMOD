@@ -140,7 +140,7 @@
        "techRequired":"Optics",
        "turnsToBuild": 7,
        "uniques": ["Can be built outside your borders","[+1 Food, +1 Production] for each adjacent [Fishing Boats]","[+1 Food] for each adjacent [Great Improvement]","[+1 Production] <after discovering [Astronomy]>",
-			"[+1 Culture] <after discovering [Flight]>","[+2 Food] from [Lakes] tiles [in this city]","[+2 Food] from [River] tiles [in this city]","[-2 Food, -1 Production] from [Desert] tiles [in this city]"]
+			"[+1 Culture] <after discovering [Flight]>","[+2 Food] from [Lakes] tiles","[+2 Food] from [River] tiles","[-2 Food, -1 Production] from [Desert] tiles"]
    },
 	{
 		"name": "Idendo",
