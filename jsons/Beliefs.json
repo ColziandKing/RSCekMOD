@@ -1,4 +1,14 @@
 [
+	{
+        "name": "Coastal Folklore",
+        "type": "Pantheon",
+        "uniques": ["[+1 Faith] from every [Fishing Boats]","[+1 Faith] from every [Atoll]"]
+    },
+	{
+        "name": "Sacred Mountains",
+        "type": "Pantheon",
+        "uniques": ["[+1 Faith, +1 Food] from every [Mountain]"]
+    },
     {
         "name": "Alters of Worship",
         "type": "Pantheon",
@@ -503,6 +513,7 @@
         "type": "Enhancer",
         "uniques": [
             "[+2 Food, +1 Science] from every [Holy site]",
+		"May buy [Synagogue] buildings for [200] [Faith] [in cities following this religion]",
             "Free [Great Prophet] appears"
         ]
     },
@@ -571,7 +582,8 @@
         "name": "Karma",
         "type": "Enhancer",
         "uniques": ["[+8 Culture] [in holy cities]",
-                    "May buy [Mandir] buildings for [270] [Faith] [in cities following this religion]"]
+                    "May buy [Mandir] buildings for [270] [Faith] [in cities following this religion]",
+			"May buy [Vihara] buildings for [150] [Faith] [in cities following this religion]"]
     },
     {
         "name": "Kotel",
@@ -593,6 +605,13 @@
         "name": "Sacred Sites",
         "type": "Enhancer",
         "uniques": [
+		"May buy [Cathedral] buildings for [150] [Faith] [in cities following this religion]",
+		"May buy [Pagoda] buildings for [200] [Faith] [in cities following this religion]",
+		"May buy [Mandir] buildings for [270] [Faith] [in cities following this religion]",
+		"May buy [Mosque] buildings for [150] [Faith] [in cities following this religion]",
+		"May buy [Gurdwara] buildings for [270] [Faith] [in cities following this religion]",
+		"May buy [Synagogue] buildings for [200] [Faith] [in cities following this religion]",
+		"May buy [Vihara] buildings for [150] [Faith] [in cities following this religion]",
             "[+2 Gold, +2 Culture, +2 Faith] from every [Vihara]",
             "[+2 Gold, +2 Culture, +2 Faith] from every [Cathedral]",
             "[+2 Gold, +2 Culture, +2 Faith] from every [Gurdwara]",
