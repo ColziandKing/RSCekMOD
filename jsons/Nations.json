@@ -3786,7 +3786,7 @@
         "cities": ["Old Wittenberg","Pre Wittenberg","Vetus Wittenberg","Idem Wittenberg"]
     },
     {
-		"name": "Manila",
+		"name": "Philippines",
 		"adjective": ["Manilan"],
 		"startBias": ["Coast"],
 	    	"leaderName": "Kolzi Jose Emilio O. Duterte",
@@ -3798,7 +3798,7 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [96,96,96],
 	    	"uniques": [],
-		"cities": ["Manila","Cebu","Davao","Peurto Princesa","Butuan","Caloocan","Iloilo","Quezon","Laguna","Vigan","Pangasinan","Baguio","Zamboanga","Olongapo","Legaspi","Sagada","Bacolod","Calbayog","Pasig","Taguig","Leyte","Cotabato","Bacoor","Cabanatuan","Antipolo","Makati","Dasmarines","San Jose del Monte","El Nido"]
+		"cities": ["Manila","Cebu","Davao","Peurto Princesa","Batanes","Butuan","Caloocan","Iloilo","Quezon","Laguna","Vigan","Pangasinan","Baguio","Zamboanga","Olongapo","Legaspi","Sagada","Bacolod","Calbayog","Pasig","Taguig","Leyte","Cotabato","Bacoor","Cabanatuan","Antipolo","Makati","Dasmarines","San Jose del Monte","El Nido"]
 	},
     //Barbarian
     {
