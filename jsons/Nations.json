@@ -3145,6 +3145,7 @@
     {
         "name": "Baku",
         "adjective": ["Azerbaijani"],
+        "cityStateType": "Cultured",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3321,6 +3322,7 @@
     {
         "name": "Islamabad",
         "adjective": ["Islamabadi"],
+        "cityStateType": "Maritime",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3552,6 +3554,7 @@
     {
         "name": "Singapore",
         "adjective": ["Singaporean"],
+        "cityStateType": "Mercantile",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3684,6 +3687,7 @@
     {
         "name": "Valletta",
         "adjective": ["Valletta"],
+        "cityStateType": "Militaristic",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3717,6 +3721,7 @@
     {
         "name": "Kathmandu",
         "adjective": ["Kathmandu"],
+        "cityStateType": "Religious",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
