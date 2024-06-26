@@ -3145,7 +3145,6 @@
     {
         "name": "Baku",
         "adjective": ["Azerbaijani"],
-        "cityStateType": "Cultured",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3157,7 +3156,6 @@
     {
         "name": "Chaco Canyon",
         "adjective": ["Chacoan"],
-        "cityStateType": "Cultured",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3169,7 +3167,6 @@
     {
         "name": "Djibouti",
         "adjective": ["Djiboutian"],
-        "cityStateType": "Cultured",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3181,7 +3178,6 @@
     {
         "name": "Kuala Lumpur",
         "adjective": ["Kuala Lumpur"],
-        "cityStateType": "Cultured",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3193,7 +3189,6 @@
     {
         "name": "Kuwait City",
         "adjective": ["Kuwati"],
-        "cityStateType": "Cultured",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3205,7 +3200,6 @@
     {
         "name": "Kyzyl",
         "adjective": ["Kyzyl"],
-        "cityStateType": "Cultured",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3217,7 +3211,6 @@
     {
         "name": "Ljubljana",
         "adjective": ["Slovenian"],
-        "cityStateType": "Cultured",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3229,7 +3222,6 @@
     {
         "name": "Luxembourg",
         "adjective": ["Luxembourg"],
-        "cityStateType": "Cultured",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3241,7 +3233,6 @@
     {
         "name": "Monaco",
         "adjective": ["Monaco"],
-        "cityStateType": "Cultured",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3253,7 +3244,6 @@
     {
         "name": "Montevideo",
         "adjective": ["Montevidean"],
-        "cityStateType": "Cultured",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3265,7 +3255,6 @@
     {
         "name": "Nicosia",
         "adjective": ["Nicosia"],
-        "cityStateType": "Cultured",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3277,7 +3266,6 @@
     {
         "name": "Reykjavik",
         "adjective": ["Reykjavik"],
-        "cityStateType": "Cultured",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3289,7 +3277,6 @@
     {
         "name": "Teheran",
         "adjective": ["Teheranian"],
-        "cityStateType": "Cultured",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3301,7 +3288,6 @@
     {
         "name": "Thimphu",
         "adjective": ["Thimphuan"],
-        "cityStateType": "Cultured",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3313,7 +3299,6 @@
     {
         "name": "Bangkok",
         "adjective": ["Bangkokian"],
-        "cityStateType": "Maritime",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3325,7 +3310,6 @@
     {
         "name": "Cape Town",
         "adjective": ["Cape"],
-        "cityStateType": "Maritime",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3337,7 +3321,6 @@
     {
         "name": "Islamabad",
         "adjective": ["Islamabadi"],
-        "cityStateType": "Maritime",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3349,7 +3332,6 @@
     {
         "name": "Kampala",
         "adjective": ["Kampalan"],
-        "cityStateType": "Maritime",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3361,7 +3343,6 @@
     {
         "name": "Lima",
         "adjective": ["Liman"],
-        "cityStateType": "Maritime",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3373,7 +3354,6 @@
     {
         "name": "Lusaka",
         "adjective": ["Lusakan"],
-        "cityStateType": "Maritime",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3385,7 +3365,6 @@
     {
         "name": "Mogadishu",
         "adjective": ["Mogadishu"],
-        "cityStateType": "Maritime",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3397,7 +3376,6 @@
     {
         "name": "Ormus",
         "adjective": ["Ormus"],
-        "cityStateType": "Maritime",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3409,7 +3387,6 @@
     {
         "name": "Panama City",
         "adjective": ["Panamanian"],
-        "cityStateType": "Maritime",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3421,7 +3398,6 @@
     {
         "name": "Paramaribo",
         "adjective": ["Paramaribos"],
-        "cityStateType": "Maritime",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3433,7 +3409,6 @@
     {
         "name": "Phnom Penh",
         "adjective": ["Phnom Penher"],
-        "cityStateType": "Maritime",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3445,7 +3420,6 @@
     {
         "name": "Port-au-Prince",
         "adjective": ["Haitian"],
-        "cityStateType": "Maritime",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3457,7 +3431,6 @@
     {
         "name": "Riga",
         "adjective": ["Rigan"],
-        "cityStateType": "Maritime",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3469,7 +3442,6 @@
     {
         "name": "Santo Domingo",
         "adjective": ["Dominican"],
-        "cityStateType": "Maritime",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3481,7 +3453,6 @@
     {
         "name": "Cahokia",
         "adjective": ["Cahokia"],
-        "cityStateType": "Mercantile",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3493,7 +3464,6 @@
     {
         "name": "Colombo",
         "adjective": ["Colombo"],
-        "cityStateType": "Mercantile",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3505,7 +3475,6 @@
     {
         "name": "Dubai",
         "adjective": ["Emirati"],
-        "cityStateType": "Mercantile",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3517,7 +3486,6 @@
     {
         "name": "Gaborone",
         "adjective": ["Gaboronian"],
-        "cityStateType": "Mercantile",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3529,7 +3497,6 @@
     {
         "name": "Hong Kong",
         "adjective": ["Hong Kong"],
-        "cityStateType": "Mercantile",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3541,7 +3508,6 @@
     {
         "name": "Lagos",
         "adjective": ["Lagosian"],
-        "cityStateType": "Mercantile",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3553,7 +3519,6 @@
     {
         "name": "Malacca",
         "adjective": ["Malacca"],
-        "cityStateType": "Mercantile",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3565,7 +3530,6 @@
     {
         "name": "Maseru",
         "adjective": ["Maseru"],
-        "cityStateType": "Mercantile",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3577,7 +3541,6 @@
     {
         "name": "Mohenjo-Daro",
         "adjective": ["Mohenjo"],
-        "cityStateType": "Mercantile",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3589,7 +3552,6 @@
     {
         "name": "Singapore",
         "adjective": ["Singaporean"],
-        "cityStateType": "Mercantile",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3601,7 +3563,6 @@
     {
         "name": "Tallinn",
         "adjective": ["Tallinner"],
-        "cityStateType": "Mercantile",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3613,7 +3574,6 @@
     {
         "name": "Trieste",
         "adjective": ["Triestian"],
-        "cityStateType": "Mercantile",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3625,7 +3585,6 @@
     {
         "name": "Vaduz",
         "adjective": ["Liechtensteiner"],
-        "cityStateType": "Mercantile",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3637,7 +3596,6 @@
     {
         "name": "Zurich",
         "adjective": ["Zurich"],
-        "cityStateType": "Mercantile",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3649,7 +3607,6 @@
     {
         "name": "Andorra",
         "adjective": ["Andorran"],
-        "cityStateType": "Militaristic",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3661,7 +3618,6 @@
     {
         "name": "Colchis",
         "adjective": ["Colchis"],
-        "cityStateType": "Militaristic",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3673,7 +3629,6 @@
     {
         "name": "Cyrene",
         "adjective": ["Cyreni"],
-        "cityStateType": "Militaristic",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3685,7 +3640,6 @@
     {
         "name": "Harappa",
         "adjective": ["Harappan"],
-        "cityStateType": "Militaristic",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3697,7 +3651,6 @@
     {
         "name": "Havana",
         "adjective": ["Habanero"],
-        "cityStateType": "Militaristic",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3709,7 +3662,6 @@
     {
         "name": "Tirana",
         "adjective": ["Tirana"],
-        "cityStateType": "Militaristic",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3721,7 +3673,6 @@
     {
         "name": "Troy",
         "adjective": ["Trojan"],
-        "cityStateType": "Militaristic",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3733,7 +3684,6 @@
     {
         "name": "Valletta",
         "adjective": ["Valletta"],
-        "cityStateType": "Militaristic",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3745,7 +3695,6 @@
     {
         "name": "Geneva",
         "adjective": ["Geneva"],
-        "cityStateType": "Religious",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3757,7 +3706,6 @@
     {
         "name": "Ife",
         "adjective": ["Ife"],
-        "cityStateType": "Religious",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3769,7 +3717,6 @@
     {
         "name": "Kathmandu",
         "adjective": ["Kathmandu"],
-        "cityStateType": "Religious",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3781,7 +3728,6 @@
     {
         "name": "La Venta",
         "adjective": ["La Venta"],
-        "cityStateType": "Religious",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3793,7 +3739,6 @@
     {
         "name": "Qufu",
         "adjective": ["Qufu"],
-        "cityStateType": "Religious",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3805,7 +3750,6 @@
     {
         "name": "Sarajevo",
         "adjective": ["Sarajlija"],
-        "cityStateType": "Religious",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3817,7 +3761,6 @@
     {
         "name": "Taipei",
         "adjective": ["Taipei"],
-        "cityStateType": "Religious",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
@@ -3829,16 +3772,27 @@
     {
         "name": "Wittenberg",
         "adjective": ["Wittenberg"],
-        "cityStateType": "Religious",
         "declaringWar": "We have wanted this for a LONG time. War it shall be.",
         "attacked": "Very well, we will kick you back to the ancient era!",
         "defeated": "This isn't how it is supposed to be!",
         "outerColor": [0, 0, 0],
         "innerColor": [179, 154, 255],
         "uniques": [],
-        "cities": ["Wittenberg"]
+        "cities": ["Old Wittenberg","Pre Wittenberg","Vetus Wittenberg","Idem Wittenberg",]
     },
-
+    {
+		"name": "Manila",
+		"adjective": ["Manilan"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Diplomatic",
+		"favoredReligion": "Christianity",
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Ah, Gods! Why have you forsaken us?",
+		"outerColor": [0, 0, 0],
+		"innerColor": [96,96,96],
+		"cities": ["Manila","Cebu","Davao","Peurto Princesa","Butuan","Caloocan","Iloilo","Quezon","Laguna","Vigan","Pangasinan","Baguio","Zamboanga","Olongapo","Legaspi","Sagada","Bacolod","Calbayog","Pasig","Taguig","Leyte","Cotabato","Bacoor","Cabanatuan","Antipolo","Makati","Dasmarines","San Jose del Monte","El Nido"]
+	},
     //Barbarian
     {
         "name": "Barbarians",
