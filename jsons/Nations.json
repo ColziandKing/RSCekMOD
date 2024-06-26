@@ -3778,7 +3778,7 @@
         "outerColor": [0, 0, 0],
         "innerColor": [179, 154, 255],
         "uniques": [],
-        "cities": ["Old Wittenberg","Pre Wittenberg","Vetus Wittenberg","Idem Wittenberg",]
+        "cities": ["Old Wittenberg","Pre Wittenberg","Vetus Wittenberg","Idem Wittenberg"]
     },
     {
 		"name": "Manila",
@@ -3791,6 +3791,7 @@
 		"defeated": "Ah, Gods! Why have you forsaken us?",
 		"outerColor": [0, 0, 0],
 		"innerColor": [96,96,96],
+	    	"uniques": [],
 		"cities": ["Manila","Cebu","Davao","Peurto Princesa","Butuan","Caloocan","Iloilo","Quezon","Laguna","Vigan","Pangasinan","Baguio","Zamboanga","Olongapo","Legaspi","Sagada","Bacolod","Calbayog","Pasig","Taguig","Leyte","Cotabato","Bacoor","Cabanatuan","Antipolo","Makati","Dasmarines","San Jose del Monte","El Nido"]
 	},
     //Barbarian
