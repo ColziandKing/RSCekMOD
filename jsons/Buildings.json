@@ -18,6 +18,15 @@
         ],
         "requiredTech": "Bronze Working"
     },
+    {
+        "name": "Courthouser",
+        "maintenance": 4,
+        "hurryCostModifier": 50,
+        "uniques": [
+            "Remove extra unhappiness from annexed cities"
+        ],
+        "requiredTech": "Mathematics"
+    },
     // Religious buildings
     {
         "name": "Cathedral",
@@ -907,7 +916,8 @@
         "maintenance": 4,
         "hurryCostModifier": 50,
         "uniques": [
-            "Remove extra unhappiness from annexed cities"
+            "Remove extra unhappiness from annexed cities",
+			"Can only be built <in [Annexed] cities>"
         ],
         "requiredTech": "Mathematics"
     },
