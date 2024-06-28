@@ -264,7 +264,6 @@
             "[+100]% Production when constructing [Shrine] buildings [in all cities]",
             "[+1 Culture, +1 Faith] [in capital]",
             "Comment [Unlocks [Great Mosque of Djenne]]",
-            "Gain a free [Pantheon] belief",
             "Provides [1] [Policies]"
         ],
         "policies": [
@@ -330,6 +329,7 @@
             {
                 "name": "Piety Complete",
                 "uniques": [
+                    "Gain a free [Pantheon] belief",
                     "Free [Great Prophet] appears",
                     "[+1 Food, +3 Culture] from every [Holy site]",
                     "Provides a [Garden] in your first [4] cities for free",
