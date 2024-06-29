@@ -73,7 +73,7 @@
                 "name": "Tradition Complete",
                 "uniques": [
                     "[+15]% growth [in all cities]","Provides the cheapest [Culture] building in your first [4] cities for free",
-                    "Provides a [Museum] in your first [4] cities for free","Free Social Policy",
+                    "Provides a [Museum] in your first [4] cities for free",
                     "May buy [Great Engineer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]
             }
@@ -146,7 +146,7 @@
             {
                 "name": "Liberty Complete",
                 "uniques": [
-                    "Free Great Person","Free Social Policy",
+                    "Free Great Person",
                     "[+33]% Production when constructing [National Epic] wonders [in all cities]",
                     "[+33]% Production when constructing [National College] wonders [in all cities]",
                     "[+33]% Production when constructing [Circus Maximus] wonders [in all cities]",
@@ -249,7 +249,7 @@
             {
                 "name": "Honor Complete",
                 "uniques": [
-                    "[+10]% [Food] [in all cities]","Free Social Policy",
+                    "[+10]% [Food] [in all cities]",
                     "Earn [100]% of killed [Military] unit's [Strength] as [Science]",
                     "May buy [Great General] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]
@@ -329,7 +329,6 @@
             {
                 "name": "Piety Complete",
                 "uniques": [
-                    "Free Social Policy",
                     "Gain a free [Pantheon] belief",
                     "Free [Great Prophet] appears",
                     "[+1 Food, +3 Culture] from every [Holy site]",
@@ -508,7 +507,6 @@
             {
                 "name": "Patronage Complete",
                 "uniques": [
-                    "Free Social Policy",
                     "[+50]% [Culture] from City-States",
                     "[+50]% [Faith] from City-States",
                     "[+50]% [Food] from City-States",
@@ -593,7 +591,7 @@
                 "name": "Exploration Complete",
                 "uniques": [
                     "[Great Admiral] is earned [100]% faster",
-                    "Free [Great Admiral] appears","Free Social Policy",
+                    "Free [Great Admiral] appears",
                     "[+1] Happiness from each type of luxury resource",
                     "May buy [Great Admiral] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]
@@ -673,7 +671,6 @@
             {
                 "name": "Commerce Complete",
                 "uniques": [
-                    "Free Social Policy",
                     "[2] free [Great Merchant] units appear",
                     "[+1 Food] from every [Trading post]",
                     "[+1 Food] from every [Caer]",
@@ -757,7 +754,7 @@
             {
                 "name": "Rationalism Complete",
                 "uniques": [
-                    "Free Social Policy","[10]% [Science] <while the empire is happy>"
+                    "[10]% [Science] <while the empire is happy>"
                 ]
             }
         ]
@@ -974,7 +971,7 @@
             },
             {
                 "name": "Order Complete",
-                "uniques": ["Free Social Policy"
+                "uniques": [
                 ]
             }
         ]
@@ -1188,7 +1185,7 @@
             },
             {
                 "name": "Freedom Complete",
-                "uniques": ["Free Social Policy"
+                "uniques": [
                 ]
             }
         ]
@@ -1406,7 +1403,7 @@
             },
             {
                 "name": "Autocracy Complete",
-                "uniques": ["Free Social Policy"
+                "uniques": [
                 ]
             }
         ]
@@ -1415,7 +1412,6 @@
         "name": "Ideology",
         "era": "Modern era",
         "uniques": [
-            "Free Social Policy",
             "Unavailable"
         ],
         "policies": [
